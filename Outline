@@ -1,0 +1,14 @@
+## Introduction
+What I want to try in do in this book is weave together stories, philosophy, empirics and data sciencey exercises across four modes
+of data science: extraction, cleaning, visualizing and modeling. This will also incorporate the four levels across which data is generated,
+consumed, analyzed and used for decisions: point, equipment, building and campus. That is points rollup under a single piece of equipment,
+equipment rolls up under a building and buildings, where applicable, rollup under a campus. These rollups allow me to introduce one of the
+philosophies present in this work, Cynefin Framework; but more on that later. The rest of the book is ordered as follows:
+
+Chapter 1 - Points and Aristotle
+
+Chapter 2 - Equipment and Moneyball
+
+Chapter 3 - Buildings and The Complicated
+
+Chapter 4 - Campuses and Kings
