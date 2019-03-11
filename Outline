@@ -1,11 +1,17 @@
 ## Introduction
 What I want to try in do in this book is weave together stories, philosophy, empirics and data sciencey exercises across four modes
 of data science: extraction, cleaning, visualizing and modeling. This will also incorporate the four levels across which data is generated,
-consumed, analyzed and used for decisions: point, equipment, building and campus. That is points rollup under a single piece of equipment,
-equipment rolls up under a building and buildings, where applicable, rollup under a campus. These rollups allow me to introduce one of the
+consumed, analyzed and used for decisions as I have experienced it in the existing building and energy management domain: point, equipment, 
+building and campus. That is points rollup under a single piece of equipment, equipment rolls up under a building and buildings, where applicable, rollup under a campus. These rollups allow me to introduce one of the
 philosophies present in this work, Cynefin Framework; but more on that later. The rest of the book is ordered as follows:
 
 Chapter 1 - Points and Aristotle
+Here it helps to keep language somewhat consistent with the common roladex. When buildings become digitized - sort of the reverse of what happens in architecture and engineering before the building is built where the 
+digital becomes concrete - equipment needs to be broken down into the specific points from which it can be mapped, connected and sequenced as part of a system or building. 
+Remember our hierarchy sketch, however inefficient it is in actual system specification and operation, it works well as a schematic. 
+Points are the smallest practical level, to my mind, that we need to go down to. And here we can start to catalog what typical points may
+be: temperature, pressure, flow, voltage, frequency, etc. Within each of these families, we can establish ranges - many of which one knows
+after spending some time working with this type of data
 
 Chapter 2 - Equipment and Moneyball
 
